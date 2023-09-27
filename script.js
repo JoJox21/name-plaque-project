@@ -57,7 +57,7 @@ const buyNow = () => {
         return
     }
     
-        if (onlyLetters) {
+    if (onlyLetters) {
         alert('Thank you! Your name plaque will be produced shortly.');
     }
     
